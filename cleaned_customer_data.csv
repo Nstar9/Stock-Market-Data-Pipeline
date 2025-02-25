@@ -1,0 +1,15 @@
+customer_id,name,age,email,purchase_amount,join_date
+101.0,Alice,25.0,alice@example.com,250.0,2021-05-01
+102.0,Bob,39.5,bob@example.com,300.0,2022-07-15
+103.0,Charlie,35.0,charlie@example.com,450.0,2023-09-30
+104.0,David,45.0,Unknown,400.0,2020-01-20
+105.0,Eve,29.0,eve@example,150.0,2019-12-11
+106.0,Frank,40.0,frank@exmple.com,200.0,2022-04-05
+107.0,Grace,39.5,grace@example.com,500.0,2021-11-03
+108.0,Hannah,50.0,hannah@example.com,450.0,
+109.0,Ivy,33.0,ivy@example.com,600.0,2020-06-18
+110.0,Jack,41.0,jack@example.com,700.0,2023-02-25
+111.0,Kate,39.0,kate@example.com,450.0,2018-08-12
+112.0,Liam,60.0,liam@example,850.0,2017-03-07
+,Mia,28.0,mia@example.com,900.0,2022-10-30
+114.0,Noah,39.5,noah@example.com,1000.0,2021-01-01
